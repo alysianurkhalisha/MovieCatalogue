@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TVShow</string>
+    <string name="poster">Poster Movie</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="release">Release</string>
+    <string name="cast">Cast</string>
+    <string name="genre">Genres</string>
+    <string name="season">Season</string>
+    <string name="desc">Descriptions</string>
+    <string name="eps">Episodes</string>
+    <string name="minutes_ext">"%1$s min"</string>
+    <string name="episodes_ext">%1$s Eps</string>
+    <string name="favorite">Favorite</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_favo">Add to Favorite</string>
+    <string name="remove_favo">Remove from Favorite</string>
+</resources>
